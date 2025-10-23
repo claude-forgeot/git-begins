@@ -1,5 +1,5 @@
 git clone
-git add
+git add .
 git commit -m "Commentaire"
 git push
 git pull
