@@ -3,4 +3,5 @@ git add .
 git commit -m "Commentaire"
 git push
 git pull
- 
+git branch
+git switch "Nom-de-la-branche"
